@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Elvira
 - 👀 I’m interested in python & machine learning
-- 🌱 I’m currently learning machine learning and php
-- 💞️ I’m looking to collaborate on someone who has same interest with me
+- 🌱 I’m currently learning machine learning, php, html
+- 💞️ Still learning and all my repo still dummy and dumb
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i love foods
 
