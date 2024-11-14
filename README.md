@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java & html
 - 💞️ Still learning and all my repo still dummy and dumb
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i love foods
+- ⚡ Fun fact: i love dumpling
 
 <!---
 prideandjuice/prideandjuice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
