@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Elvira
+#  Hi There ! 👋 I’m Elvira
 - 👀 I’m interested in python & machine learning
 - 🌱 I’m currently learning java & html
 - 💞️ Still learning and all my repo still dummy and dumb
